@@ -1,0 +1,9 @@
+Modified:
+1. nodeSeqscan.c in $POSTGRES_SRCDIR/src/backend/executor/
+2. spi.c in $POSTGRES_SRCDIR/src/backend/executor/
+3. Makefile in $POSTGRES_SRCDIR/src/backend/
+4. pg_ctl.c in  $POSTGRES_SRCDIR/src/bin/pg_ctl/
+5. spi.h in  $POSTGRES_SRCDIR/src/include/executor/
+
+Added:
+1.  index_creator.c in $POSTGRES_SRCDIR/src/backend/index_creator
